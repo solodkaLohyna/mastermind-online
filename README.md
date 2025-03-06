@@ -1,5 +1,4 @@
 # Demo version: https://mastermind-online.vercel.app/
-
 ## The project is still in development, with a primitive design and no adaptation for different screen sizes.
 
 # Online Mastermind: Game Rules
